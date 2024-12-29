@@ -1,0 +1,83 @@
+/* Styles for the container */
+.container {
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0.8, 0.2);
+    max-width: 500px;
+}
+
+/* Styles for h2 tag */
+h2 {
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Styles for h3 tag */
+h3 {
+    color: #444;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+/* Styles for hr tag */
+hr {
+    border: 1px solid #2c2c2c;
+}
+
+/* Styles for p tag */
+p {
+    color: #666;
+    font-size: 16px;
+    margin: 20px;
+}
+
+/* Styles for div tag */
+.styled-div {
+    background-color: #b8b8b8;
+    border: 1px solid #0e0e0e;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+/* Styles for span tag */
+span {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+/* Styles for time tag */
+time {
+    font-style: italic;
+    margin: 10px 0;
+    color: #000000;
+}
+
+/* Styles for img tag */
+img {
+    border: 2px solid rgb(99, 99, 99);
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.1);
+    width: 450px;
+}
+
+
+/* Styles for a tag */
+a {
+    color: #5bc0de;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Additional container padding */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    padding: 40px;
+}
